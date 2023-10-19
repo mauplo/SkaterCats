@@ -1,5 +1,4 @@
 *.csharp linguist-detectable
 *.shader -linguist-detectable
 *.shaders -linguist-detectable
-*.ShaderLab -linguist-detectable
 *.cginc -linguist-detectable
