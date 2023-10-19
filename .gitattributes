@@ -1,0 +1,2 @@
+*.csharp linguist-detectable=true
+*.shaders linguist-detectable=false
