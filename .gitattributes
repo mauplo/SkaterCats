@@ -2,3 +2,4 @@
 *.shader -linguist-detectable
 *.shaders -linguist-detectable
 *.ShaderLab -linguist-detectable
+*.HLSL -linguist-detectable
